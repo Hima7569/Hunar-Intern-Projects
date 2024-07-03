@@ -1,1 +1,20 @@
+Email Spam Detection Project
+This project involves building an email spam detection system using machine learning techniques. The steps followed in this project are outlined below:
+
+Steps to Follow
+1. Import Libraries and Dataset
+Import Libraries: Import necessary libraries such as pandas for data manipulation.
+Import Dataset: Load the dataset provided in the task file.
+2. Data Preprocessing
+Remove Null Values: Clean the dataset by removing any null values to ensure data integrity.
+Remove Duplicates: Eliminate duplicate entries from the dataset to avoid redundancy.
+Split Dataset: Divide the dataset into training and testing subsets to evaluate the model's performance.
+3. Implement Model
+Linear Regression Model: Apply a linear regression model to the training dataset.
+Check Accuracy: Evaluate the model's performance on the training data to check its accuracy.
+4. Model Evaluation
+Test Model: Use the testing dataset to evaluate the model.
+Accuracy Check: Ensure the model is predicting accurate values by comparing its output with the actual values in the testing dataset.
+5. Testing
+Test with Different Datasets: Evaluate the model with different datasets to ensure its robustness and accuracy across various data samples.
 
